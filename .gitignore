@@ -29,3 +29,6 @@
 
 # Log Files
 *.log
+
+# Add more
+*.more
